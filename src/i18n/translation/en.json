@@ -1,0 +1,267 @@
+{
+  "next": "Next",
+  "save": "Save",
+  "shareSchedule": "Share my schedule",
+  "schedule": "Schedule",
+  "completed": "Completed",
+  "password": "Password",
+  "edit": "Edit",
+  "step": "Step",
+  "email": "Email",
+  "changePassword": "Change password",
+  "phone": "Phone",
+  "facebook": "Facebook",
+  "auth": {
+    "apple": "Apple",
+    "google": "Google",
+    "confirmPassword": "Confirm password",
+    "signUpText": "Sign Up",
+    "forgotPassword": "Forgot password?",
+    "signIn": {
+      "orLoginWith": "Or login with:",
+      "logIn": "Log In",
+      "newToThisApp": "New to this app?"
+    },
+    "signUp": {
+      "alreadyAMember": "Already a member?",
+      "firstName": "First Name",
+      "lastName": "Last Name"
+    }
+  },
+  "paymentMethod": {
+    "button": "Manage Stripe Account",
+    "title": "My Payment Account",
+    "stripe": "Powered by STRIPE",
+    "active": "Active"
+  },
+  "bookingsNavigation":{
+    "bookingsList": {
+      "bookings": "Bookings",
+      "selectChat": "Select chat",
+      "selectCallMethod": "Select call method",
+      "sms": "Sms",
+      "messenger": "Messenger",
+      "whatsapp": "Whatsapp",
+      "test": "test",
+      "phoneCall": "Phone call",
+      "upcoming": "Upcoming",
+      "history": "History",
+      "assigned": "Assigned",
+      "accepted": "Accepted",
+      "started": "Started",
+      "bookingItem": {
+        "decline": "Decline",
+        "accept": "Accept",
+        "status": "Status",
+        "paid": "paid",
+        "start": "Start",
+        "successful": "Successful",
+        "completed": "Completed",
+        "cancel": "Cancel",
+        "fail": "Fail"
+      },
+      "bookingItemsDateContainer": {
+        "today": "Today",
+        "tomorrow": "Tomorrow"
+      }
+    },
+    "notifications": {
+      "notifications": "Notifications",
+      "clearAll": "Clear all",
+      "onboardingNotification": "You haven’t completed the onboarding process. Please go all the way.",
+      "paymentNotification": "You got paid from",
+      "verifyAccountNotification": "Your account is verified!",
+      "сongratulations": "Congratulations"
+    }
+   },
+  "intro": {
+    "skip": "Skip",
+    "bookMore": "Book more appointments",
+    "motilGives": "Motil gives you tools to run and grow your service buissness.",
+    "appointmentManagement": "Appointment management",
+    "customizedOnlineBookings": "Customized Online Bookings",
+    "emailSmsReminders": "Email & SMS Reminders",
+    "seamlessMobilePayments": "Seamless Mobile Payments",
+    "accessLocalCustomers": "Access Local Customers",
+    "ourAlgorithms": "Our algorithms match you with customers near you to get you more plugged in to your community and eliminate wasted time traveling between appointments.",
+    "noAddedTransactionFees": "No Added Transaction Fees",
+    "useMotil": "Use Motil to run your business free of platform fees. Free of platform fees.",
+    "yourBusiness": "Your Business, with Motil",
+    "streamlineYourProcesses": "Streamline your processes and manage all of your services in one place.",
+    "focusOn": "Focus on What's Important",
+    "letMotil": "Let Motil free up your time so you can focus on what’s important."
+  },
+  "newTaskNavigation": {
+    "chooseDateTime": {
+      "chooseDateTime": "Choose date & time",
+      "continue": "Continue"
+    },
+    "completeBooking": {
+      "bookingComplete": "Booking complete"
+    },
+    "createBooking": {
+      "createBooking": "Create booking",
+      "or": "Or",
+      "addNewCustomer": "Add new customer",
+      "customersEmail": "Customer's email",
+      "customersPhoneNumber": "Customer's phone number"
+    },
+    "newTaskSummary": {
+      "reviewYourBooking": "Review Your Booking",
+      "dateTime": "Date & Time",
+      "serviceAddress": "Service Address",
+      "paymentMethod": "Payment Method",
+      "estimate": "Estimate",
+      "basedOn": "(based on the duration provided)",
+      "promoCode": "Promo Code",
+      "accepted": "Accepted!",
+      "giveUs": "Give us more info (optional)",
+      "sendToCustomer": "Send to customer"
+    },
+    "selectCategories": {
+      "service": "Service",
+      "searchService": "Search for a service",
+      "allServices": "All services"
+    },
+    "serviceDuration": {
+      "estimateHowMuchTime": "Estimate how much time you will need. You will be billed only for the actual duration of your successfully completed service.",
+      "minimumBooking": "Minimum 30 minute booking",
+      "pickTime": "Pick a time"
+    }
+  },
+  "onboarding": {
+    "categories": {
+      "letClientsKnow": "Let clients know what services you provide.",
+      "search": "Search",
+      "categories": "Categories",
+      "popularNearYou": "Popular near you",
+      "nextStep": "Next step"
+    },
+    "onboardingVerification": {
+      "backgroundCheck": "Background Check",
+      "start": "Start",
+      "resultsPending": "Results pending",
+      "applicationProcesse": "Application processe"
+    },
+    "onboardPaymentAccount": {
+      "payouts": "Payouts",
+      "setupAccount": "Setup Account",
+      "needMoreInfo": "Need more info",
+      "poweredBy": "Powered by"
+    },
+    "restDays": {
+      "restDays": "Rest days",
+      "restDay": "Rest day",
+      "currentDay": "Current day",
+      "selected": "Selected"
+    },
+    "scheduleSummaryItemsData": {
+      "workingHours": "Working Hours",
+      "workingDays": "Working Days",
+      "daysOff": "Days off"
+    },
+    "scheduleSummary": {
+      "selectDaysOff": "Select days off",
+      "selectWorkingWeekDays": "Select working week days",
+      "availability": "Availability",
+      "servicesOnline": "Let your clients book services online"
+    },
+    "sherableSchedule": {
+      "shareableScheduleLink": "Shareable schedule link",
+      "copyAndShare": "Copy and share the link below with your customers via text, email, Instagram, Facebook, Nextdoor or anywhere your customers find you!",
+      "customersCan": "Customers can directly access your personalized booking page with this link.",
+      "yourScheduleLink": "Your Schedule Link:",
+      "invalidLinkFormat": "Invalid link format. Your Schedule Link must begin with \n'https://dev.motil.us/@type-your-unique-name-here",
+      "saveChanges": "Save Changes",
+      "shareLink": "Share link",
+      "done": "Done",
+      "updated": "Link updated"
+    },
+    "workingDays": {
+      "setWorkingDays": "Set working days",
+      "unavailable": "Unavailable"
+    },
+    "workingHours": {
+      "tellWhen": "Tell when you are availbile for work",
+      "additionalTimePeriod": "Additional time period",
+      "workingFrom": "Working from",
+      "workingTo": "Working to"
+    }
+  },
+  "passwordComponent": {
+    "resetPassword": "Reset Password",
+    "pleaseEnterEmail": "Please enter your email address",
+    "yourPassword": "Your password has been changed.",
+    "ok": "Ok",
+    "changePassword": {
+      "confirmPassword": "Confirm password"
+    }
+  },
+  "settingsNavigation": {
+    "general": "General",
+    "language": "Language",
+    "onboarding": "Onboarding",
+    "mySchedule": "My schedule",
+    "chooseCategoriesAndServices": "Choose categories and services",
+    "contact": "Contact",
+    "logOut": "Log Out",
+    "startApp": "Start Application",
+    "changePasswordSettings": {
+      "currentPassword": "Current password",
+      "newPassword": "New password",
+      "repeatNewPassword": "Repeat new password"
+    },
+    "generalSettings": {
+      "personalInformation": "Personal information",
+      "changePassword": "Change password",
+      "paymentMethod": "Payment method",
+      "transportation": "Transportation"
+    },
+    "onboardingSettings": {
+      "onboardingProcess": "Onboarding process",
+      "watchIntroAgain": "Watch intro again",
+      "verification": "Verification"
+    },
+    "contactSettings": {
+      "phone": "Phone",
+      "email": "Email",
+      "aboutUs": "About Us"
+    },
+    "editPersonalInfo": {
+      "fieldIsRequired": "Field is required*",
+      "mustValidEmail": "Must be a valid email",
+      "phoneNumberShould": "Phone number should follow US format",
+      "editPersonalInformation": "Edit personal information",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "authorization": "Authorization:",
+      "connect": "Connect"
+    },
+    "transportationSettings": {
+      "transportation": "Transportation",
+      "chooseVechicleType": "Choose vechicle type",
+      "foot": "FOOT",
+      "bike": "BIKE",
+      "truck": "TRUCK",
+      "motorcycle": "MOTORCYCLE",
+      "car": "CAR"
+    },
+    "verificationScreens": {
+      "onboardingProcess": "Onboarding process ",
+      "welcome": "Welcome",
+      "earnMore": "Earn more with Motil in a few quick steps."
+    },
+    "startApplication": {
+      "requestInvitation": "Request Invitation",
+      "submitBackgroundCheck": "Submit background check",
+      "startBackgroundCheck": "Start background check",
+      "applicationProcessed": "Application processed"
+    },
+    "trustedSpecialist": {
+      "trustedSpecialistProgram": "Trusted Specialist Program",
+      "joinTrusted": "Join trusted specialists and offer services with Motil.",
+      "motilCustomers": "Motil customers are constantly looking for service providers.\nJoin the Trusted Specialist Program and Motil will send you verified customer appointments in your free time.",
+      "sellMore": "Sell More. Scale with Motil. Make Money."
+    }
+  }
+}

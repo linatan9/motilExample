@@ -1,0 +1,3 @@
+const GET_SERVICES = 'GET_SERVICES[SERVICE]';
+
+export {GET_SERVICES};

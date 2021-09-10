@@ -1,0 +1,258 @@
+{
+  "next": "Continuar",
+  "save": "Guardar",
+  "completed": "Completado",
+  "password": "Contrasena",
+  "edit": "Editar",
+  "step": "Paso",
+  "email": "Correo electronico",
+  "changePassword": "Cambiar Contrasena",
+  "phone": "Telefono",
+  "facebook": "Facebook",
+  "auth": {
+    "apple": "Apple",
+    "google": "Google",
+    "confirmPassword": "Confirmar Contrasena",
+    "signUpText": "Registrate",
+    "forgotPassword": "¿Has olvidado la contraseña?",
+    "signIn": {
+      "orLoginWith": "O iniciar session con:",
+      "logIn": "Iniciar Session",
+      "newToThisApp": "¿Primera vez usando Motil?"
+    },
+    "signUp": {
+      "alreadyAMember": "¿Ya tienes una cuenta?",
+      "firstName": "Nombre (s)",
+      "lastName": "Appellido (s)"
+    }
+  },
+  "bookingsNavigation":{
+    "bookingsList": {
+      "bookings": "Reservas/Sesiones reservadas",
+      "selectChat": "Mandar mensaje texto",
+      "selectCallMethod": "Llamar",
+      "sms": "Sms",
+      "messenger": "Messenger",
+      "whatsapp": "Whatsapp",
+      "test": "Prueba",
+      "phoneCall": "Llama telefonica",
+      "upcoming": "Proximas reservas",
+      "history": "Historeal",
+      "assigned": "Asignado",
+      "accepted": "Confirmado",
+      "started": "Iniciado",
+      "bookingItem": {
+        "decline": "Declinar",
+        "accept": "Confirmar",
+        "status": "Estado",
+        "paid": "Pago completado",
+        "start": "Iniciar",
+        "successful": "Completar sesion",
+        "cancel": "Cancelar",
+        "fail": "Incompleto"
+      },
+      "bookingItemsDateContainer": {
+        "today": "Hoy",
+        "tomorrow": "Manana"
+      }
+    },
+    "notifications": {
+      "notifications": "Notificaciones",
+      "clearAll": "Borrar",
+      "onboardingNotification": "No has terminado el proceso de registracion. Por favor seguir a los pasos pendientes.",
+      "paymentNotification": "John Smith completo tu pago.",
+      "verifyAccountNotification": "Tu cuenta esta verificada!",
+      "сongratulations": "Felicidades"
+    }
+  },
+  "intro": {
+    "skip": "Omitir",
+    "bookMore": "Haz mas sesiones",
+    "motilGives": "Motil te da herrmientas para crecer tu negocio a tu manera.",
+    "appointmentManagement": "Administracion de sesiones",
+    "customizedOnlineBookings": "Sesiones personalizadas",
+    "emailSmsReminders": "Recordatorios por SMS y correo electronico",
+    "seamlessMobilePayments": "Pagos directas sin problemas",
+    "accessLocalCustomers": "Acesar nuevos clientes locales",
+    "ourAlgorithms": "Nuestro algoritmo te conecta a clientes cerca de ti y reducir tiempo gastado entre tus sesiones.",
+    "noAddedTransactionFees": "Sin tarifas adicionales",
+    "useMotil": "Usar Motil para manjar tu negocio libre de tarifas adicionales.",
+    "yourBusiness": "Tu negocio con Motil",
+    "streamlineYourProcesses": "Facilita tu proceso y maneja todo tus servicios en un solo lugar ( o en una sola aplicacion).",
+    "focusOn": "Enfocate en lo mas importante.",
+    "letMotil": "Deje que Motil te libere mas tiempo para que te puedas enfocar en lo mas importante."
+  },
+  "newTaskNavigation": {
+    "chooseDateTime": {
+      "chooseDateTime": "Elige la fecha y la hora de inicio de la sesion",
+      "continue": "Continuar"
+    },
+    "completeBooking": {
+      "bookingComplete": "Sesion terminada"
+    },
+    "createBooking": {
+      "createBooking": "Crear una sesion",
+      "or": "o",
+      "addNewCustomer": "Anadir un nuevo cliente",
+      "customersEmail": "Direccion de correo electronico del cliente",
+      "customersPhoneNumber": "Telefono del cliente"
+    },
+    "newTaskSummary": {
+      "reviewYourBooking": "Revisar los detalles de tu sesion",
+      "dateTime": "Fecha y hora",
+      "serviceAddress": "Direccion de la sesion",
+      "paymentMethod": "Metodo de pago",
+      "estimate": "Estimacion",
+      "basedOn": "(basado en la duración seleccionada)",
+      "promoCode": "Сodigo promocional",
+      "accepted": "¡Confirmado!",
+      "giveUs": "Cuentanos mas detalles sobre el servicio",
+      "sendToCustomer": "Mandar a tu cliente"
+    },
+    "selectCategories": {
+      "service": "Servicio",
+      "searchService": "Buscar un servicio",
+      "allServices": "Todos nuestros servicios"
+    },
+    "serviceDuration": {
+      "estimateHowMuchTime": "Estimar cuanto tiempo vas a necesitar. Pagar solo por el tiempo actual de tu servicio.",
+      "minimumBooking": "Minimo de 30 minutos por sesion",
+      "pickTime": "Elegir la hora"
+    }
+  },
+  "onboarding": {
+    "categories": {
+      "letClientsKnow": "Selecciona los servicios que quieres ofrecer",
+      "search": "Buscar un servicio…",
+      "categories": "Сategorias",
+      "popularNearYou": "Servicios populares cerca de ti",
+      "nextStep": "Proximo paso"
+    },
+    "onboardingVerification": {
+      "backgroundCheck": "Verificacion de identidad y antecedentes",
+      "start": "Iniciar",
+      "resultsPending": "Resultados Pendientes",
+      "applicationProcesse": "Applicacion"
+    },
+    "onboardPaymentAccount": {
+      "payouts": "Pagos",
+      "setupAccount": "Crear una cuenta",
+      "needMoreInfo": "Necesita mas information",
+      "poweredBy": "Desarollado por"
+    },
+    "restDays": {
+      "restDays": "Desarollado por",
+      "restDay": "Dia de descanso",
+      "currentDay": "Dia actual",
+      "selected": "Seleccionado"
+    },
+    "scheduleSummaryItemsData": {
+      "workingHours": "Horas Laborales",
+      "workingDays": "Días Laborables",
+      "daysOff": "El día de descanso"
+    },
+    "scheduleSummary": {
+      "selectDaysOff": "Eligir dias de descanso",
+      "selectWorkingWeekDays": "Seleccionar dias de trabajo",
+      "availability": "Disponibilidad"
+    },
+    "sherableSchedule": {
+      "shareableScheduleLink": "Enlace compartible con tu calendario",
+      "copyAndShare": "Puedes copiar y compartir el siguiente enlace con tus clientes por SMS, e-mail, y redes sociales.",
+      "customersCan": "A traves del enlace a tu calendario, tus clientes pueden reservar sesiones directamente de acuerdo a tu dsiponibilidad.",
+      "yourScheduleLink": "Enlace a tu calendario",
+      "invalidLinkFormat": "Formato del enlace invalido. Tu enlace debe empezar con…\n'https://dev.motil.us/@type-your-unique-name-here",
+      "saveChanges": "Guardar cambios",
+      "shareLink": "Compartir enlace",
+      "done": "Completo/Listo",
+      "updated": "Enlace actualizado"
+    },
+    "workingDays": {
+      "setWorkingDays": "Elegir dias de trabajo",
+      "unavailable": "Indisponible"
+    },
+    "workingHours": {
+      "tellWhen": "Elegir horas disponibles para trabajar",
+      "additionalTimePeriod": "Agregar otro periodo",
+      "workingFrom": "Trabaja de",
+      "workingTo": "Trabaja hasta"
+    }
+  },
+  "passwordComponent": {
+    "resetPassword": "Cambiar contrasena",
+    "pleaseEnterEmail": "Por favor ingresar tu correo electronico.",
+    "yourPassword": "Tu contrasena se cambio",
+    "ok": "Ok",
+    "changePassword": {
+      "confirmPassword": "Confirmar contrasena"
+    }
+  },
+  "settingsNavigation": {
+    "general": "General",
+    "language": "Idioma",
+    "onboarding": "Proceso de integracion",
+    "mySchedule": "Mi calendario",
+    "chooseCategoriesAndServices": "Elija categorías y servicios",
+    "contact": "Contact",
+    "logOut": "Cerras sesion",
+    "startApp": "Comenzar aplicacion",
+    "changePasswordSettings": {
+      "currentPassword": "Contrasena actual",
+      "newPassword": "Nueva contrasena",
+      "repeatNewPassword": "Repetir contrasena"
+    },
+    "generalSettings": {
+      "personalInformation": "Informacion personal",
+      "changePassword": "Cambiar la contraseña",
+      "paymentMethod": "Método de pago",
+      "transportation": "El transporte"
+    },
+    "onboardingSettings": {
+      "onboardingProcess": "Proceso de integración",
+      "watchIntroAgain": "Ver la introducción de nuevo",
+      "verification": "Verificación"
+    },
+    "contactSettings": {
+      "phone": "Teléfono",
+      "email": "Correo electronico",
+      "aboutUs": "Sobre Motil"
+    },
+    "editPersonalInfo": {
+      "fieldIsRequired": "Este campo es requerido*",
+      "mustValidEmail": "Debe ser un correo electronico valido",
+      "phoneNumberShould": "Numero de telefono deber seguir formato de E.E.U.U",
+      "editPersonalInformation": "Cambiar informacion personal",
+      "firstName": "Nombre(s)",
+      "lastName": "Apellido(s)",
+      "authorization": "Autorizacion:",
+      "connect": "Conectar"
+    },
+    "transportationSettings": {
+      "transportation": "Transportacion",
+      "chooseVechicleType": "Seleccione tu modo de transporte",
+      "foot": "A pie",
+      "bike": "Bicicleta",
+      "truck": "Camion",
+      "motorcycle": "Motocicleta",
+      "car": "Carro"
+    },
+    "verificationScreens": {
+      "onboardingProcess": "Proceso de integracion",
+      "welcome": "Bienvenido",
+      "earnMore": "Gana mas con motil en unos pasos simples"
+    },
+    "startApplication": {
+      "requestInvitation": "Pedir invitacion",
+      "submitBackgroundCheck": "Someter aplicacion para verificacion de antecedentes",
+      "startBackgroundCheck": "Empezar aplicacion para verficiacion de antecedentes",
+      "applicationProcessed": "Aplicacion en proceso"
+    },
+    "trustedSpecialist": {
+      "trustedSpecialistProgram": "Programa de especialistas de confianza",
+      "joinTrusted": "Unete con otros especialistas de confianza para ofrecer servicios a traves de Motil.",
+      "motilCustomers": "Clientes de Motil siempre estan buscando proveedores. Unete a nuestro programa de especialistas de confianza y Motil te conectara con nuevos clientes para mas sesiones a tu horario.",
+      "sellMore": "Vender mas. Crecer con Motil. Ganar mas."
+
+    }
+  }
+}
